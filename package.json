@@ -1,0 +1,16 @@
+{
+  "name": "PWA_store",
+  "version": "1.0.0",
+  "description": "e-Commerce store with PWA",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
